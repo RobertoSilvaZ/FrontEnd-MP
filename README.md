@@ -20,7 +20,7 @@ Ejecutar el archivo index.html en su navegador
 ## Frameworks
 
 ```
-* [jQuery]("https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js) - Funciones JavaScript 
+* [jQuery](https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js) - Funciones JavaScript 
 * [Bootstrap CSS3 3.3.7](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css) - CSS3
 * [Bootstrap HTML5 3.3.7](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js) - HTML5
 * [Validator](https://codeload.github.com/1000hz/bootstrap-validator/zip/master) - Validador
