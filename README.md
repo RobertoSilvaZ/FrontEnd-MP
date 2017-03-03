@@ -1,8 +1,11 @@
 # Desafío FrontEnd
 
-## Objetivo
+## Objetivos
 
-Generar archivo donde se ingrese únicamente valores enteros
+1. Ingresar un conjunto indeterminado de números enteros en cualquier orden.
+2. Los números ingresados no deben repetirse.
+3. Generar el proceso de ordenamiento ascendente del conjunto.
+4. Generar la animación visual de dicho proceso.
 
 ### Requisitos
 
